@@ -1,2 +1,1 @@
-# Project_IPL
-DNA
+Theory of ipl and is written by Confu.
